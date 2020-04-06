@@ -1,0 +1,23 @@
+{
+  "0x19f64674D8a5b4e652319F5e239EFd3bc969a1FE": {
+    "name": "tRIF Token",
+    "logo": "rif.png",
+    "erc20": true,
+    "symbol": "tRIF",
+    "decimals": 18
+  },
+  "0xCb46C0DdC60d18eFEB0e586c17AF6Ea36452DaE0": {
+    "name": "Dollar on Chain",
+    "logo": "doc.png",
+    "erc20": true,
+    "symbol": "DOC",
+    "decimals": 18
+  },
+  "0x4dA7997A819bb46B6758b9102234c289Dd2ad3bf": {
+    "name": "BitPRO",
+    "logo": "bpro.png",
+    "erc20": true,
+    "symbol": "BITP",
+    "decimals": 18
+  }
+}
