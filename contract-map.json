@@ -33,5 +33,41 @@
     "erc20": true,
     "symbol": "INV",
     "decimals": 18
+  },
+  "0x12eD69359919FC775bc2674860e8fe2D2B6a7b5D": {
+    "name": "Token Bridge testnet",
+    "logo": "rsk.png",
+    "erc20": false,
+    "symbol": "tTB",
+    "decimals": 0
+  },
+  "0x0d86fcA9be034A363cf12c9834Af08d54A10451c": {
+    "name": "Dai Stablecoin",
+    "logo": "dai.png",
+    "erc20": true,
+    "symbol": "rKovDAI",
+    "decimals": 18
+  },
+  "0x0a8d098e31A60da2b9c874D97de6E6b385c28e9d": {
+    "name": "True USD",
+    "logo": "tusd.png",
+    "erc20": true,
+    "symbol": "rKovTUSD",
+    "decimals": 18
+  },
+  "0x79055c1e06FBc5893D664D6e7521Aa0bd9a514e9": {
+    "name": "Wrapped Ether",
+    "logo": "weth.png",
+    "erc20": true,
+    "symbol": "rKovWETH",
+    "decimals": 18
+  },
+  "0x823b3d62Cb5A4Ed97F26eD9888eA721b569aFE27": {
+    "name": "0x Protocol",
+    "logo": "zrx.png",
+    "erc20": true,
+    "symbol": "rKovZRX",
+    "decimals": 18
   }
+  
 }
