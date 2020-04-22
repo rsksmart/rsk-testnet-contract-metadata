@@ -23,8 +23,15 @@
   "0xCa0a477e19BaC7E0E172CCFd2e3c28a7200BDB71": {
     "name": "RIF Name Service testnet",
     "logo": "rif.png",
-    "erc20": true,
+    "erc20": false,
     "symbol": "tRNS",
     "decimals": 0
+  },
+  "0xc16625A9Cd128e79bF53774448Ccb36e940B639C": {
+    "name": "Invecoin",
+    "logo": "inv.png",
+    "erc20": true,
+    "symbol": "INV",
+    "decimals": 18
   }
 }
