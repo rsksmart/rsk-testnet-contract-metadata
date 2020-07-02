@@ -6,6 +6,20 @@
     "symbol": "tRIF",
     "decimals": 18
   },
+  "0xC3De9f38581F83e281F260D0ddBAac0E102Ff9F8": {
+    "name": "Rif Dollar on Chain",
+    "logo": "rdoc.png",
+    "erc20": true,
+    "symbol": "RDOC",
+    "decimals": 18
+  },
+  "0x23A1Aa7B11E68beBE560a36bEC04D1F79357f28d": {
+    "name": "RIF Pro",
+    "logo": "rifpro.png",
+    "erc20": true,
+    "symbol": "RIFP",
+    "decimals": 18
+  },
   "0xCb46C0DdC60d18eFEB0e586c17AF6Ea36452DaE0": {
     "name": "Dollar on Chain",
     "logo": "doc.png",
@@ -34,11 +48,32 @@
     "symbol": "INV",
     "decimals": 18
   },
+  "0x8BBbd80981FE76D44854d8dF305e8985c19F0E78": {
+    "name": "ChainLink Token",
+    "logo": "link.png",
+    "erc20": true,
+    "symbol": "rKovLINK",
+    "decimals": 18
+  },
   "0x0d86fcA9be034A363cf12c9834Af08d54A10451c": {
     "name": "Dai Stablecoin",
     "logo": "dai.png",
     "erc20": true,
     "symbol": "rKovDAI",
+    "decimals": 18
+  },
+  "0x6117c9529f15C52e2d3188D5285c745B757b5825": {
+    "name": "USD Coin",
+    "logo": "usdc.png",
+    "erc20": true,
+    "symbol": "rKovUSDC",
+    "decimals": 18
+  },
+  "0xcdC8CCBbFB6407c53118fe47259E8D00C81f42CD": {
+    "name": "Tether USD",
+    "logo": "usdt.png",
+    "erc20": true,
+    "symbol": "rKovUSDT",
     "decimals": 18
   },
   "0x0a8d098e31A60da2b9c874D97de6E6b385c28e9d": {
@@ -53,6 +88,13 @@
     "logo": "weth.png",
     "erc20": true,
     "symbol": "rKovWETH",
+    "decimals": 18
+  },
+  "0x09b6ca5E4496238A1F176aEa6Bb607DB96c2286E": {
+    "name": "Wrapped RBTC",
+    "logo": "wrbtc.png",
+    "erc20": true,
+    "symbol": "WRBTC",
     "decimals": 18
   },
   "0x823b3d62Cb5A4Ed97F26eD9888eA721b569aFE27": {
