@@ -27,6 +27,6 @@
   "homepage": "https://github.com/rsksmart/rsk-testnet-contract-metadata#readme",
   "devDependencies": {
     "rskjs-util": "^1.0.3",
-    "tape": "^4.6.3"
+    "tape": "^5.0.1"
   }
 }
