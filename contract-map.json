@@ -83,7 +83,7 @@
     "symbol": "rKovTUSD",
     "decimals": 18
   },
-  "0x79055c1e06FBc5893D664D6e7521Aa0bd9a514e9": {
+  "0xd15cDd74DFF1A6a81CA639b038839b126Bc01Ff9": {
     "name": "Wrapped Ether",
     "logo": "weth.png",
     "erc20": true,
