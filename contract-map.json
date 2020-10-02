@@ -110,6 +110,34 @@
     "erc20": true,
     "symbol": "rKovZRX",
     "decimals": 18
+  },
+  "0x9762c833627bc00F7A32132A9749478C3e4288AE": {
+    "name": "Uniswap LP RBTC/tRIF",
+    "logo": "rif-rbtc.png",
+    "erc20": true,
+    "symbol": "🦄RBTC:tRIF",
+    "decimals": 18
+  },
+  "0xA0cC64a426BBEd0E68bBEDf4256846BD929eAf02": {
+    "name": "Uniswap LP tRIF/DOC",
+    "logo": "rif-doc.png",
+    "erc20": true,
+    "symbol": "🦄tRIF:DOC",
+    "decimals": 18
+  },
+  "0x735cF80c1080b38B805e7cC8fFe283e0f1C58056": {
+    "name": "Uniswap LP BPRO/DOC",
+    "logo": "bpro-doc.png",
+    "erc20": true,
+    "symbol": "🦄BPRO:DOC",
+    "decimals": 18
+  },
+  "0x2f8bE643263283A17Fa0E748cB30D54e11939542": {
+    "name": "Uniswap LP RDOC/DOC",
+    "logo": "rdoc-doc.png",
+    "erc20": true,
+    "symbol": "🦄RDOC:DOC",
+    "decimals": 18
   }
   
 }
