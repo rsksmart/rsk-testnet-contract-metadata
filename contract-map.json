@@ -55,11 +55,18 @@
     "symbol": "rKovLINK",
     "decimals": 18
   },
-  "0x0d86fcA9be034A363cf12c9834Af08d54A10451c": {
+  "0x7b846216a194C69BB1EA52Ea8FAA92D314866451": {
     "name": "Dai Stablecoin",
     "logo": "dai.png",
     "erc20": true,
     "symbol": "rKovDAI",
+    "decimals": 18
+  },
+  "0x0d86fcA9be034A363cf12c9834Af08d54A10451c": {
+    "name": "Sai Stablecoin",
+    "logo": "sai.png",
+    "erc20": true,
+    "symbol": "rKovSAI",
     "decimals": 18
   },
   "0x6117c9529f15C52e2d3188D5285c745B757b5825": {
