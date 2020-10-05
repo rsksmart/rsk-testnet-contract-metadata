@@ -55,11 +55,18 @@
     "symbol": "rKovLINK",
     "decimals": 18
   },
-  "0x0d86fcA9be034A363cf12c9834Af08d54A10451c": {
+  "0x7b846216a194C69BB1EA52Ea8FAA92D314866451": {
     "name": "Dai Stablecoin",
     "logo": "dai.png",
     "erc20": true,
     "symbol": "rKovDAI",
+    "decimals": 18
+  },
+  "0x0d86fcA9be034A363cf12c9834Af08d54A10451c": {
+    "name": "Sai Stablecoin",
+    "logo": "sai.png",
+    "erc20": true,
+    "symbol": "rKovSAI",
     "decimals": 18
   },
   "0x6117c9529f15C52e2d3188D5285c745B757b5825": {
@@ -102,6 +109,34 @@
     "logo": "zrx.png",
     "erc20": true,
     "symbol": "rKovZRX",
+    "decimals": 18
+  },
+  "0x9762c833627bc00F7A32132A9749478C3e4288AE": {
+    "name": "Uniswap LP RBTC/tRIF",
+    "logo": "rif-rbtc.png",
+    "erc20": true,
+    "symbol": "🦄RBTC:tRIF",
+    "decimals": 18
+  },
+  "0xA0cC64a426BBEd0E68bBEDf4256846BD929eAf02": {
+    "name": "Uniswap LP tRIF/DOC",
+    "logo": "rif-doc.png",
+    "erc20": true,
+    "symbol": "🦄tRIF:DOC",
+    "decimals": 18
+  },
+  "0x735cF80c1080b38B805e7cC8fFe283e0f1C58056": {
+    "name": "Uniswap LP BPRO/DOC",
+    "logo": "bpro-doc.png",
+    "erc20": true,
+    "symbol": "🦄BPRO:DOC",
+    "decimals": 18
+  },
+  "0x2f8bE643263283A17Fa0E748cB30D54e11939542": {
+    "name": "Uniswap LP RDOC/DOC",
+    "logo": "rdoc-doc.png",
+    "erc20": true,
+    "symbol": "🦄RDOC:DOC",
     "decimals": 18
   }
   
