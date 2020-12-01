@@ -69,14 +69,14 @@
     "symbol": "rKovSAI",
     "decimals": 18
   },
-  "0x6117c9529f15C52e2d3188D5285c745B757b5825": {
+  "0xED3334adB07a3a5947D268e5A8c67B84F5464963": {
     "name": "USD Coin",
     "logo": "usdc.png",
     "erc20": true,
     "symbol": "rKovUSDC",
     "decimals": 18
   },
-  "0xcdC8CCBbFB6407c53118fe47259E8D00C81f42CD": {
+  "0x4CFE225ce54C6609a525768b13F7d87432358C57": {
     "name": "Tether USD",
     "logo": "usdt.png",
     "erc20": true,
