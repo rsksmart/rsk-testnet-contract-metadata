@@ -1,8 +1,19 @@
-# RSK Testnet Contract Metadata
-
-[![CircleCI](https://circleci.com/gh/rsksmart/rsk-testnet-contract-metadata.svg?style=svg)](https://circleci.com/gh/rsksmart/rsk-testnet-contract-metadata)
-
-A mapping of checksummed addresses to metadata, like names, and images of those addresses' logos.
+<p align="middle">
+    <img src="https://www.rsk.co/img/rsk_logo.svg" alt="logo" height="100" >
+</p>
+<h3 align="middle">RSK Testnet Contract Metadata</h3>
+<p align="middle">
+    A mapping of addresses to metadata, like names, and images of those addresses' logos.
+</p>
+<p align="middle">
+  <a href="https://circleci.com/gh/rsksmart/rsk-testnet-contract-metadata">
+    <img src="https://img.shields.io/circleci/build/github/rsksmart/rsk-testnet-contract-metadata?label=test" alt="circlci">
+  </a>
+  <a href="https://npmjs.org/@rsksmart/rsk-testnet-contract-metadata">
+    <img src="https://img.shields.io/npm/v/@rsksmart/rsk-testnet-contract-metadata" alt="circlci">
+  </a>
+  
+</p>
 
 All address keys follow the [EIP 1191 address checksum format](https://github.com/ethereum/EIPs/issues/1191).
 
