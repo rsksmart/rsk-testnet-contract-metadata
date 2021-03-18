@@ -159,5 +159,12 @@
     "erc20": true,
     "symbol": "cRBTC",
     "decimals": 8
+  },
+  "0xE95afDfeC031f7B9Cd942eb7E60F053FB605dfCD": {
+    "name": "Bundles Finance",
+    "logo": "bound.png",
+    "erc20": true,
+    "symbol": "rBOUND",
+    "decimals": 18
   }
 }
