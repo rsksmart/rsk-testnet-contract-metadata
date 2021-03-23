@@ -162,9 +162,9 @@
   },
   "0xE95afDfeC031f7B9Cd942eb7E60F053FB605dfCD": {
     "name": "Bundles Finance",
-    "logo": "bound.png",
+    "logo": "bund.png",
     "erc20": true,
-    "symbol": "rBOUND",
+    "symbol": "rBUND",
     "decimals": 18
   }
 }
