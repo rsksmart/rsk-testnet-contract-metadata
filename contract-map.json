@@ -166,5 +166,12 @@
     "erc20": true,
     "symbol": "rBUND",
     "decimals": 18
+  },
+  "0x45A97b54021A3F99827641AFE1bFae574431E6ab": {
+    "name": "MOC",
+    "logo": "moc.png",
+    "erc20": true,
+    "symbol": "MOC",
+    "decimals": 18
   }
 }
