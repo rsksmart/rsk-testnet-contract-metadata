@@ -164,7 +164,7 @@
     "name": "Bundles Finance",
     "logo": "bund.png",
     "erc20": true,
-    "symbol": "rBUND",
+    "symbol": "rKovBUND",
     "decimals": 18
   },
   "0x45A97b54021A3F99827641AFE1bFae574431E6ab": {
@@ -172,6 +172,13 @@
     "logo": "moc.png",
     "erc20": true,
     "symbol": "MOC",
+    "decimals": 18
+  },
+  "0x1c85316116131133cF6FdB0Cde836b23035ea775": {
+    "name": "Universal Basic Income tokens",
+    "logo": "ubi.png",
+    "erc20": true,
+    "symbol": "rKovUBI",
     "decimals": 18
   }
 }
