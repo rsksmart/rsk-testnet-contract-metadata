@@ -1,5 +1,5 @@
 const test = require('tape')
-const contractMap = require('../')
+const contractMap = require('../src/contract-map.json')
 const permittedFields = require('../permitted-fields.json')
 
 const util = require('rskjs-util')
