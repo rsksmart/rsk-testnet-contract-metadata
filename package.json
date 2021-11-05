@@ -1,13 +1,15 @@
 {
   "name": "@rsksmart/rsk-testnet-contract-metadata",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "A mapping of RSK testnet contract addresses to broadly accepted icons for those addresses.",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "node test"
   },
   "files": [
     "index.js",
+    "index.d.ts",
     "contract-map.json",
     "images/"
   ],
