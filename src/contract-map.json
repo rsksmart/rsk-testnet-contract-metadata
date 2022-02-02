@@ -194,5 +194,12 @@
     "erc20": true,
     "symbol": "XUSD",
     "decimals": 18
+  },
+  "0xb8aE2CB769255359190fBcE89d3aD38687da5e65": {
+    "name": "Wrapped BTC",
+    "logo": "wbtc.png",
+    "erc20": true,
+    "symbol": "rKovWBTC",
+    "decimals": 18
   }
 }
