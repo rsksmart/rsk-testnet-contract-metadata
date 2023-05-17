@@ -3,6 +3,7 @@
 </p>
 <h3 align="middle">RSK Testnet Contract Metadata</h3>
 <p align="middle">
+    test
     A mapping of addresses to metadata, like names, and images of those addresses' logos.
 </p>
 <p align="middle">
