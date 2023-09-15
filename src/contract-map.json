@@ -201,5 +201,12 @@
     "erc20": true,
     "symbol": "rKovWBTC",
     "decimals": 18
+  },
+  "0x8dbF326E12a9fF37ED6ddf75adA548c2640a6482": {
+    "name": "RIF US Dollar",
+    "logo": "usdrif.png",
+    "erc20": true,
+    "symbol": "USDRIF",
+    "decimals": 18
   }
 }
