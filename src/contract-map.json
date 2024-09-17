@@ -13,6 +13,13 @@
     "symbol": "RDOC",
     "decimals": 18
   },
+  "0xc4b091d97ad25cea5922f09fe80711b7acbbb16f": {
+    "name": "Staked RIF",
+    "logo": "",
+    "erc20": true,
+    "symbol": "stRIF",
+    "decimals": 18
+  },
   "0x23A1Aa7B11E68beBE560a36bEC04D1F79357f28d": {
     "name": "RIF Pro",
     "logo": "rifpro.png",
